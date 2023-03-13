@@ -1,0 +1,10 @@
+PASS	Basic Statistics	trimmed_ce_1_SRR11859191.fastq.gz
+PASS	Per base sequence quality	trimmed_ce_1_SRR11859191.fastq.gz
+PASS	Per sequence quality scores	trimmed_ce_1_SRR11859191.fastq.gz
+WARN	Per base sequence content	trimmed_ce_1_SRR11859191.fastq.gz
+PASS	Per sequence GC content	trimmed_ce_1_SRR11859191.fastq.gz
+PASS	Per base N content	trimmed_ce_1_SRR11859191.fastq.gz
+WARN	Sequence Length Distribution	trimmed_ce_1_SRR11859191.fastq.gz
+PASS	Sequence Duplication Levels	trimmed_ce_1_SRR11859191.fastq.gz
+PASS	Overrepresented sequences	trimmed_ce_1_SRR11859191.fastq.gz
+PASS	Adapter Content	trimmed_ce_1_SRR11859191.fastq.gz
